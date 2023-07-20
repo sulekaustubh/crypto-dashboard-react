@@ -5,7 +5,7 @@ import MarketCapEndPoint from "./Coin/MarketCapEndPoint";
 import ExchangeCoins from "./ExchangeCoins/ExchangeCoins";
 import Portfolio from "./Portfolio/Portfolio";
 import SearchBar from "./Search/SearchBar";
-import NavBar from "./Navbar/NavBar";
+// import NavBar from "./Navbar/NavBar";
 import HashLoader from "react-spinners/HashLoader";
 import { useState, useEffect } from "react";
 import { useSelector } from "react-redux";
@@ -28,7 +28,7 @@ function FinalUI() {
     
      //--- Navigational Bar---
     <div className={darkMode ? "dark" : ""}>
-      <NavBar />
+      {/* <NavBar /> */}
       {loading === true ? (
         
         // React-spinner to allow React app to load all its components
