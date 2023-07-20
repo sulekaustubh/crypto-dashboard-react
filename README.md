@@ -40,8 +40,8 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
   <h2>Project Description</h2>
-  <b>Project Name : Spark | Cryptocurrency Dashboard </b>
-  <a href ="https://spark-cryptocurrency-dashboard.herokuapp.com/"/>
+  <b>Project Name : Crypto Live</b>
+  <a href ="https://react-crypto-dashboard-five.vercel.app/"/>
   Live Here
   </a>
  <br>
